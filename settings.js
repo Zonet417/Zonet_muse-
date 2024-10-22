@@ -11,8 +11,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
+global.ownernomer = "263785119865"
+global.ownername = "Zonetmuse"
 global.ytname = "YT: SHADOW STARCORE"
 global.socialm = "GitHub: dark-tech-zone"
 global.location = "India, Delhi, city"
